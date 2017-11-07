@@ -19,7 +19,7 @@ class Blockchain(object):
     def register_node(self, address):
         """
         Add a new node to the list of nodes
-        :param address: <str> Address of node. Eg. 'http://192.168.0.5:5000'
+        :param address: <str> Address of node. Eg. 'http://XXX.XXX.XXX.XXX:5000'
         :return: None
         """
 
